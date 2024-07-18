@@ -1,0 +1,9 @@
+/src/main/java/pro/sky/telegrambot/configuration/TelegramBotConfiguration.java
+/src/main/java/pro/sky/telegrambot/listener/TelegramBotUpdatesListener.java
+/src/main/java/pro/sky/telegrambot/model/MenuBot.java
+/src/main/java/pro/sky/telegrambot/model/NotificationTask.java
+/src/main/java/pro/sky/telegrambot/TelegramBotApplication.java
+/src/main/resources/liquibase/scripts/script1.sql
+/src/main/resources/liquibase/changelog-master.yml
+/src/main/resources/application.properties
+/src/main/resources/scripts
